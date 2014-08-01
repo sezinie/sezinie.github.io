@@ -1,32 +1,23 @@
+# Bioinformatics courses
 
-# 바이오파이썬
+[Home](index.md)
 
-[About](doc/intro.md)
+[About](menu/intro.md)
 
-[part1]()
+[Biopython Study]()
 
-  * [유닉스(리눅스) 기본 명령어 & 파이썬 환경설정](doc/part1/d01.md)
-  * [IPython notebook](doc/part1/d02.md)
-  * [Python Basics I & II](doc/part1/d03.md)
-  * [Python Modules & NumPy and Matplotlib](doc/part1/d04.md)
-  * [Biopython I & Biopython II](doc/part1/d05.md)
-  * [Data  management and relational databases](doc/part1/d06.md)
-  * [Data analysis with Python](doc/part1/d07.md)
-  * [버전관리](doc/part1/d08.md)
+  * [PART I](menu/biopython/part1.md)
+  * [PART II](menu/biopython/part2.md)
+  * [PART III](menu/biopython/part3.md)
 
-[part2]()
+[CSBMI]()
 
-  * [ch1~3](doc/part2/d01.md)
-  * [ch4~6](doc/part2/d02.md)
-  * [ch7~9](doc/part2/d03.md)
-  * [ch10~12](doc/part2/d04.md)
-  * [ch13~15](doc/part2/d05.md)
-  * [ch16~18](doc/part2/d06.md)
-  * [ch19~21](doc/part2/d07.md)
+  * [Linux](menu/linux.md)
+  * [Python](menu/python.md)
+  * [유전체의학](menu/bioinformatics.md)
 
-[part3]()
+[R](r.md)
 
-  * [ch1~3](doc/part3/d01.md)
+[Linux](linux.md)
 
-
-[gimmick:theme (inverse: false)](cerulean)
+[gimmick:theme](spacelab)
