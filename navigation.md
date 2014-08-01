@@ -1,6 +1,6 @@
 [Home](index.md)
-[Lunch specials](specials.md)
-[Contact](contact.md)
-[Guestbook](guestbook.md)
-
+[Biopython Study](biopython.md)
+[CSBMI](contact.md)
+[R](r.md)
+[Linux](linux.md)
 [gimmick:theme](spacelab)
