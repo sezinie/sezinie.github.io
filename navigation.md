@@ -12,9 +12,9 @@
 
 [CSBMI]()
 
-  * [Linux](menu/linux.md)
-  * [Python](menu/python.md)
-  * [유전체의학](menu/bioinformatics.md)
+  * [Linux](menu/csbmi/linux.md)
+  * [Python](menu/csbmi/python.md)
+  * [유전체의학](menu/csbmi/bioinformatics.md)
 
 [R](r.md)
 
