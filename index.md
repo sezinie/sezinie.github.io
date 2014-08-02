@@ -1,1 +1,3 @@
-This is my first markdown
+bioinformatics study, workshop, course history
+
+- Sejin Park - 
