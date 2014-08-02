@@ -1,7 +1,5 @@
 # Bioinformatics courses
 
-[Home](index.md)
-
 [About](menu/intro.md)
 
 [Biopython Study]()
