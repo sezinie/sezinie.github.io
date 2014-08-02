@@ -1,4 +1,4 @@
-# Bioinformatics courses
+# Bioinformatics
 
 [About](menu/intro.md)
 
