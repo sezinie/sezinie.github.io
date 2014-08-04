@@ -1,9 +1,9 @@
 
 
-##  Ipython notebook server & R studio server setting on Biolinux 8 virtual machine
+#  Ipython notebook server & R studio server setting on Biolinux 8 virtual machine
 발표자 : 박세진 
 
-### 1. biolinux virtual machine 설치 
+## 1. biolinux virtual machine 설치 
 * biolinux8은 ubuntu 14.04LTS를 기반으로 한 리눅스 배포판입니다. ubuntu 14.04LTS에서 생기는 동일한 이슈가 발생할 수 있습니다. 그런 경우, 우분투 12.04LTS를 기반으로 한 biolinux7(Released November 2012- http://nebc.nerc.ac.uk/tools/bio-linux-7 )을 사용해보세요.
 
 
@@ -23,7 +23,7 @@ http://nebc.nerc.ac.uk/downloads/bio-linux-8-latest.ova 를 다운받습니다.(
 
 sudo apt-get update
 
-### 2. ipython notebook 설치
+## 2. ipython notebook 설치
 
 sudo apt-get install python-matbplotlib # 이미 설치되어있음. 
 sudo apt-get install python-tornado
@@ -98,7 +98,7 @@ https://localhost:9999
 * 외부에서 접속시 (서버 관리자에게 9999포트 개방 요청 해야할 수도 있습니다.)
 https://ip:9999
 
-### 3. R studio server 설치
+## 3. R studio server 설치
 sudo apt-get install gdebi-core
 sudo apt-get install libapparmor1
 wget http://download2.rstudio.org/rstudio-server-0.98.994-amd64.deb
