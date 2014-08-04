@@ -16,12 +16,17 @@ http://nebc.nerc.ac.uk/downloads/bio-linux-8-latest.ova 를 다운받습니다.(
 
 가상머신은 사용자 manager 패스워드 manager 로 생성됩니다. (passwd 명령어로 수정)
 
-자판이 제대로 인식되는지 ~을 타이핑해봅니다. 
-안나온다면 키보드 input source에 korean을 추가합니다.
-시작 버튼에서 text entry 
-- korean 추가, 원하는 단축키 설정. 
-
 sudo apt-get update
+
+-카보드 및 한글 입력 설정-
+language support 에서  가능한 추가팩 설치 후 install language에서 korean 체크.
+logout & 다시 login
+시작 버튼에서 text entry 에서 + 눌러서 
+korean(hangul)추가하고  
+English(USA)랑 둘만 남긴다. 
+- 원하는 단축키 설정. 
+
+자판이 제대로 인식되는지 ~와 한글을 타이핑해봅니다. 
 
 ## 2. ipython notebook 설치
 
@@ -90,8 +95,8 @@ c.NotebookApp.open_browser = False
 nohup ipython notebook --profile=nbserver 1 > /dev/null 2>&1
 
 * process중지하려면 
-ps
-kill psid
+ps # ipython의 process id를 확인후 
+kill psid # 해당 number를 kill  ex) kill 3383
 
 * 이후 서버에서 직접 실행시 
 https://localhost:9999
