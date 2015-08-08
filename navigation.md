@@ -1,7 +1,5 @@
 # Data Science
 
-[About](menu/intro.md)
-
 [Biopython Study]()
 
   * [PART I](menu/biopython/part1.md)
