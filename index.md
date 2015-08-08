@@ -1,3 +1,3 @@
-# bioinformatics study, workshop, course history
+# Data Science Study, workshop, course history
 
 -Sejin Park- 

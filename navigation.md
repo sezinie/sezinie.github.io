@@ -1,4 +1,4 @@
-# Bioinformatics
+# Data Science
 
 [About](menu/intro.md)
 
